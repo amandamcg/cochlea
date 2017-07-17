@@ -187,6 +187,7 @@ $(document).ready(function() {
     // track list.
     var activeTrackID = 0;
     var TRACKLIST = [
+      "audio/track123.mp3",
       "audio/demo.mp3",
       "audio/uptown.mp3"
     ];
